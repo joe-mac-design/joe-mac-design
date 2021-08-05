@@ -28,7 +28,7 @@
 
 <details>
 
-  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=joe-mac-design&show_icons=true&theme=default)
+  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=joe-mac-design&show_icons=true&theme=onedark)
 
 </details>
 
