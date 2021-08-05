@@ -2,7 +2,7 @@
 
 ## I'm a Game Design and Producton Student
 - I'm currently in my 3rd Year!
-- I'm currently working on my personal portfolio: [Portfolio] [website]
+- I'm currently working on my personal portfolio: [Portfolio][website] 
 - I hope to collaberate with people and make some games!
 
 ### Conect with me:
