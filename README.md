@@ -9,7 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="josephmackle.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="My LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.sv" />][linkedin]
+[<img align="left" alt="My LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="My Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][twitter]
 [<img align="left" alt="My Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />][instagram]
 
