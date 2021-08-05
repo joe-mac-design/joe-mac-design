@@ -3,9 +3,9 @@
 ## I'm a Game Design and Producton Student
 - I'm currently in my 3rd Year!
 - I'm currently working on my personal [Portfolio!][website]
-- I hope to collaberate with people and make some games!
+- I hope to collaborate with people and make some games!
 
-### Conect with me:
+### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
