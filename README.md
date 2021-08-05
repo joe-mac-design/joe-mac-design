@@ -9,7 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="josephmackle.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="My LinkedIn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="My LinkedIn | LinkedIn" width="22px" src="https://icon2.cleanpng.com/20180705/tiy/kisspng-knight-frank-france-commercial-property-real-estat-linkedin-white-5b3e6c90965612.9288517115308176806158.jpg" />][linkedin]
 [<img align="left" alt="My Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" />][twitter]
 [<img align="left" alt="My Instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" />][instagram]
 
