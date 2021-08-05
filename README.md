@@ -21,16 +21,16 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-mac-designa&layout=compact)
+
 <br />
 <br />
 
 ---
 
-<details>
+### My GitHub Stats:
 
-  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=joe-mac-design&show_icons=true&theme=onedark)
-
-</details>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=joe-mac-design&show_icons=true&theme=onedark)
 
 [website]: https://josephmackle.com
 [linkedin]: https://www.linkedin.com/in/joseph-m-1ba964195/
