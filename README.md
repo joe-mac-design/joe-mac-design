@@ -26,8 +26,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joe-mac-design&layout=compact&theme=onedark)
 
-<br />
-
 ---
 
 ### My GitHub Stats:
