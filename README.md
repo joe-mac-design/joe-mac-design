@@ -4,7 +4,7 @@
 - I'm currently in my 3rd Year!
 - I'm currently working on my personal [Portfolio!][website]
 - I hope to collaborate with people and make some games!
-- In my spare time I play League of Legends(help)
+- In my spare time I like to practice my 3D Modelling and play games.
 
 ### Connect with me:
 
