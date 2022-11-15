@@ -29,7 +29,7 @@
 <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
 <img align="left" alt="Unity" width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
 <img align="left" alt="Blender" width="26px" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" />
-<img align="left" alt="Adobe Photoshop" width="26px" src="[https://www.photoshop.com/en/images/apps/photoshop.png](https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg)" >
+<img align="left" alt="Adobe Photoshop" width="26px" src="(https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg)" />
 <img align="left" alt="Adobe Xd" width="26px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" />
 <img align="left" alt="Figma" width="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" />
 
@@ -46,5 +46,5 @@
 
 [website]: https://josephmackle.com
 [linkedin]: https://www.linkedin.com/in/joseph-m-1ba964195/
-[twitter]: https://twitter.com/smoll_mac
+[twitter]: https://twitter.com/joje_twt
 [instagram]: https://www.instagram.com/joe_mackle/
