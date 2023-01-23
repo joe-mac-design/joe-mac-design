@@ -1,10 +1,10 @@
 ### Hi there, I'm Joe, welcome to my GitHub!
 
 ## I'm a Game Design and Producton Student
-- I'm currently in my 3rd Year!
+- I'm currently in my 4th Year!
 - I'm currently working on my personal [Portfolio!][website]
 - I hope to collaborate with people and make some games!
-- In my spare time I like to practice my 3D Modelling and play games.
+- In my spare time I like to play games.
 
 ### Connect with me:
 
