@@ -1,7 +1,6 @@
 ### Hi there, I'm Joe, welcome to my GitHub!
 
-## I'm a Game Design and Producton Student
-- I'm currently undertaking my Honours Year at university!
+## I'm an Associate, Quality Assurance Tester: Functionality at Rockstar Games.
 - I'm currently working on my personal [Portfolio!][website]
 
 ### Connect with me:
