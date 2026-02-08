@@ -26,6 +26,9 @@
 <img align="left" alt="Blender" width="26px" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" />
 <img align="left" alt="Adobe Photoshop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" />
 
+<br />
+<br />
+
 ---
 
 [website]: https://josephmackle.com
